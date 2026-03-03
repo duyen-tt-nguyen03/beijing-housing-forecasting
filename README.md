@@ -9,18 +9,18 @@
 A data-driven study of Beijing housing price dynamics combining structural analysis and predictive modeling to support investment-oriented decision making. This project analyzes historical housing transaction data (2011–2017) and builds predictive models to forecast future price trends (2018–2020).
 
 The analysis integrates:
-    Exploratory Data Analysis (EDA)
-    Structural factor evaluation (financial returns & risk analysis & policy analysis)
-    Supervised machine learning for price forecasting
-    Investment risk–return interpretation
+    * Exploratory Data Analysis (EDA)
+    * Structural factor evaluation (financial returns & risk analysis & policy analysis)
+    * Supervised machine learning for price forecasting
+    * Investment risk–return interpretation
 
 ## **My Contributions**
 1. Category C: Property Age & Policy Impact Analysis
-    Conducted comparative price appreciation analysis between older vs newer buildings
-    Quantified structural differences in growth rates across property age categories
-    Evaluated potential tax and policy-related impacts on price behavior
-    Built visual trend comparisons across districts and time periods
-    -> This section focused on understanding long-term return stability and structural risk.
+    * Conducted comparative price appreciation analysis between older vs newer buildings
+    * Quantified structural differences in growth rates across property age categories
+    * Evaluated potential tax and policy-related impacts on price behavior
+    * Built visual trend comparisons across districts and time periods
+    * -> This section focused on understanding long-term return stability and structural risk.
 
 2. Housing Price Forecasting (2018–2020)
     Engineered features from historical transaction data
